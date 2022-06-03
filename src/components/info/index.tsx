@@ -26,7 +26,7 @@ export default () => {
     },
     headless: {
       icon: CircleWavyCheck,
-      title: "Headless"
+      title: "Headless UI"
     },
     phosphor: {
       icon: CircleWavyCheck,
